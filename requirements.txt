@@ -6,4 +6,3 @@ numpy
 google-generativeai
 langchain-core
 gunicorn
-os
