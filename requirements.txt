@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+pandas
+openpyxl
+numpy
+google-generativeai
+langchain-core
+gunicorn
+os
